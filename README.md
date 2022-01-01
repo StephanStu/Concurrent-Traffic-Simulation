@@ -24,6 +24,9 @@ This is my solution for the 4th project in the [Udacity C++ Nanodegree Program](
 4. Run it: `./traffic_simulation`.
 
 ## Architecture of the Application
+The architecture of the application is described in the diagram below
+
+![sourceCodeArchitecture](data/sourceCodeArchitecture.JPG)
 
 ## Changes made to the Original Source Code
 
