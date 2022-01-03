@@ -1,3 +1,5 @@
+![runningOnLinux](data/runningOnLinux.JPG)
+
 # Concurrent-Traffic-Simulation
 This is my solution for the 4th project in the [Udacity C++ Nanodegree Program](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213): Concurrency. The goal of this project is to a implement a suitable &amp; thread-safe communication protocol between vehicles and intersections acting as traffic lights to complete the simulation. The original code base can be found [here](https://github.com/udacity/CppND-Program-a-Concurrent-Traffic-Simulation). When the project is built using the original code base, all traffic lights will be green. After implementation of my thread-safe communication protocol between vehicles and intersections the traffic simulation runs with traffic lights controlling the traffic flow at intersections.
 

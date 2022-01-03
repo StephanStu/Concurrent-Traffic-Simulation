@@ -13,6 +13,12 @@ enum ObjectType
     objectStreet,
 };
 
+enum TrafficLightPhase
+{
+  	red,
+  	green,
+};
+
 class TrafficObject
 {
 public:
